@@ -9,6 +9,6 @@ server:
     - type: http
       port: 9001
 
-host: 185.40.9.190
+host: localhost
 port: 27017
 db: postcodes
